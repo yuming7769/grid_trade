@@ -36,4 +36,5 @@ def down_quotes(symbol, start_date, end_date, frequency):
     bs.logout()
 
 
-down_quotes("sh.600036", '2020-07-01', '2020-08-10', '5')
+# down_quotes("sh.601668", '2019-11-26', '2020-08-22', '5')
+down_quotes("sh.601668", '2020-03-18', '2020-08-22', '5')
